@@ -1,0 +1,1 @@
+Bots are scraping content, so find out their IP address, and ban them from accessing the website. Add IP addresses, and use a default range of addresses.
